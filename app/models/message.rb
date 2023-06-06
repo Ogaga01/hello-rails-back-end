@@ -1,2 +1,5 @@
 class Message < ApplicationRecord
-end
+    def as_json(_options = {})
+      { text: text }
+    end
+  end
