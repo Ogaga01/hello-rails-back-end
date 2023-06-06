@@ -120,7 +120,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- Live Demo Will Be Added Soon
+- [Frontend repo link](https://github.com/Ogaga01/hello-react-front-end)
 
 - Video Description Will Be Added Soon
 
